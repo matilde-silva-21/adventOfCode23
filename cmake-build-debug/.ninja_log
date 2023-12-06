@@ -1,6 +1,0 @@
-# ninja log v5
-1	227	1701858160548594600	CMakeFiles/adventOfCode.dir/main.cpp.o	b55a240e3f762b59
-639	766	1701858216004909800	adventOfCode	c34bd6c75fbb1c32
-1	51	1701858253653555800	build.ninja	200abc04eec63287
-1	639	1701858215880892800	CMakeFiles/adventOfCode.dir/code/day1.cpp.o	eda7484fff9af472
-2	667	1701857825224589400	CMakeFiles/adventOfCode.dir/day1.cpp.o	2e41ed2f8facfed7
